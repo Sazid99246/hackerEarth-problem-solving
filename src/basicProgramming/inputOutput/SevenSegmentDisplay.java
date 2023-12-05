@@ -3,7 +3,7 @@ package basicProgramming.inputOutput;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-class TestClass {
+public class SevenSegmentDisplay {
     public static void main(String args[]) throws Exception {
 
         int arr[] = new int[] { 6, 2, 5, 5, 4, 5, 6, 3, 7, 6 };
